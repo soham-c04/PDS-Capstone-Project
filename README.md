@@ -1,4 +1,4 @@
-# TLE
+# PDS Capstone Project
 This repository contains some of my basic games, which are made using the C/C++ programming language and the graphics.h library in devC++
 The video tutorial for installing graphics.h is the following URL
 
